@@ -1,0 +1,78 @@
+#top {
+    height: 195px;
+    background-color: white;
+    border: solid black 5px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex flex-start;
+}
+
+#purplerectangle {
+    background-color: blueviolet;
+    height: 130px;
+    width: 40px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#greenrectangle {
+    background-color: green;
+    height: 175px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 40px;
+
+}
+
+#bluecircle {
+    background-color: lightskyblue;
+    height: 175px;
+    width: 175px;
+    margin-top: 10px;
+    margin-left: 40px;
+    border-radius: 175px;
+
+}
+
+#middle {
+    height: 270px;
+    background-color: white;
+    border: dotted black 5px;
+    margin-top: 20px;
+}
+
+#yellowrectangle {
+    background-color: rgb(248, 248, 212);
+    height: 175px;
+    width: 90%;
+    margin-top: 45px;
+    margin-left: 45px;
+    box-shadow: 10px 10px 5px rgb(71, 71, 71);
+}
+
+#bottom {
+    height: 195px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+#whiterectangle {
+    background-color: rgb(252, 252, 252);
+    height: 275px;
+    width: 45%;
+    margin-top: 45px;
+    margin-left: 27.5%;
+    box-shadow: 5px 5px 5px rgb(178, 178, 178);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#whiterectangle > div {
+    color: rgb(49, 49, 146);
+    font-weight: 800;
+    font-size: 20pt;
+    letter-spacing: 7pt;
+    word-wrap: normal;
+    }
