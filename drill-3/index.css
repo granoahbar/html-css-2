@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(190, 190, 190);
+    margin: 0px;
+    height: 100px;
+    width: 100%;
+}
+
+header > div {
+    background-color: rgb(65, 116, 243);
+    margin: 0px;
+    height: 60px;
+    width: 60px;
+}
+
+#paragraph {
+
+}
+
+#paragraph > div {
+
+}
+
+#bluesectioin {
+    background-color: rgb(190, 190, 190);
+    margin: 0px;
+    height: 100px;
+    width: 100%;
+}
+
+#aquasectioin {
+    background-color: rgb(190, 190, 190);
+    margin: 0px;
+    height: 100px;
+    width: 100%;
+}
+
+#throwupsectioin {
+    background-color: rgb(190, 190, 190);
+    margin: 0px;
+    height: 100px;
+    width: 100%;
+}
+
+#bananasectioin {
+    background-color: rgb(190, 190, 190);
+    margin: 0px;
+    height: 100px;
+    width: 100%;
+}
